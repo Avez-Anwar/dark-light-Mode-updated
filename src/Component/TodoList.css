@@ -1,0 +1,32 @@
+.todolist-app h2 {
+  border: 2px solid rgb(129, 115, 224);
+  width: 130px;
+  text-transform: capitalize;
+  padding: 5px;
+  overflow: auto;
+}
+.todolist-app {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  cursor: pointer;
+  margin: auto;
+  margin-top: 30px;
+}
+.todolist-app button {
+  width: 100px;
+  cursor: pointer;
+  width: 100px;
+  padding: 10px;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 3px;
+  margin-left: 10px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.todolist-app button:hover {
+  background-color: #d82739;
+}
