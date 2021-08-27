@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-age-calculator-updated/static/css/main.a9913592.chunk.css",
+    "main.js": "/react-age-calculator-updated/static/js/main.4b7f5bcb.chunk.js",
+    "main.js.map": "/react-age-calculator-updated/static/js/main.4b7f5bcb.chunk.js.map",
+    "runtime-main.js": "/react-age-calculator-updated/static/js/runtime-main.ec5e0088.js",
+    "runtime-main.js.map": "/react-age-calculator-updated/static/js/runtime-main.ec5e0088.js.map",
+    "static/js/2.8ba2e87a.chunk.js": "/react-age-calculator-updated/static/js/2.8ba2e87a.chunk.js",
+    "static/js/2.8ba2e87a.chunk.js.map": "/react-age-calculator-updated/static/js/2.8ba2e87a.chunk.js.map",
+    "static/js/3.d0eef414.chunk.js": "/react-age-calculator-updated/static/js/3.d0eef414.chunk.js",
+    "static/js/3.d0eef414.chunk.js.map": "/react-age-calculator-updated/static/js/3.d0eef414.chunk.js.map",
+    "index.html": "/react-age-calculator-updated/index.html",
+    "static/css/main.a9913592.chunk.css.map": "/react-age-calculator-updated/static/css/main.a9913592.chunk.css.map",
+    "static/js/2.8ba2e87a.chunk.js.LICENSE.txt": "/react-age-calculator-updated/static/js/2.8ba2e87a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec5e0088.js",
+    "static/js/2.8ba2e87a.chunk.js",
+    "static/css/main.a9913592.chunk.css",
+    "static/js/main.4b7f5bcb.chunk.js"
+  ]
+}
